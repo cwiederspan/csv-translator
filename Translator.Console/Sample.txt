@@ -1,0 +1,32 @@
+Content.conversationId	Timestamp	Content.text
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:41	"Would you like to start over? Alternatively, you can reach out to our [client support team](https://www.somecompany.com/SalesContactJump.aspx)."
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:41	"Sorry, I am still learning. Thank you for giving us the opportunity to train our virtual assistant as we make improvements daily with your feedback."
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:41	No
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:39	Did I answer your question correctly?
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:39	"Please visit the [quote request](https://www.somecompany.com/quote-request) page and fill out the required fields to request a quote. After you submit your quote request, please allow 48 hours for your quote to be processed. Once processed, you will receive a status update via e-mail from our team. You can also view your quote request on the [quote status](https://www.somecompany.com/quote-status) page. "
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:39	requesting a quote
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:38	"Sure, I can answer general questions. How can I help you?"
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:38	I have a general question
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:38	I am your Virtual Assistant! Please select one of the following options. Remember that you can type 'Help' at any time during this conversation to go to the Main Menu or to get in touch with our Client Support Team.
+82P4wfmT70WKdoqivAtN6S-6	7/7/2020 20:38	Hello
+IVR5VOC85hoE0lDFtF92Hu-6	7/7/2020 20:31	I am your Virtual Assistant! Please select one of the following options. Remember that you can type 'Help' at any time during this conversation to go to the Main Menu or to get in touch with our Client Support Team.
+IVR5VOC85hoE0lDFtF92Hu-6	7/7/2020 20:31	Hello
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"Please select one of the following options, so we can better serve you."
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"We apologize but all of our agents are currently assisting other clients. If you continue to have trouble connecting, please reach out to our [client support team](https://www.somecompany.com/SalesContactJump.aspx)"
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	Chat with a Live Agent
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"We apologize but all of our agents are currently assisting other clients. If you continue to have trouble connecting, please reach out to our [client support team](https://www.somecompany.com/SalesContactJump.aspx)"
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"Please select one of the following options, so we can better serve you."
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	Chat with a Live Agent
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"Please select one of the following options, so we can better serve you."
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"We apologize but all of our agents are currently assisting other clients. If you continue to have trouble connecting, please reach out to our [client support team](https://www.somecompany.com/SalesContactJump.aspx)"
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	Chat with a Live Agent
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"Please select one of the following options, so we can better serve you."
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	HELP
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	"Sure, I can answer general questions. How can I help you?"
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	I have a general question
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	I am your Virtual Assistant! Please select one of the following options. Remember that you can type 'Help' at any time during this conversation to go to the Main Menu or to get in touch with our Client Support Team.
+2Eesoyhs02f62rtDVWa5Iv-6	7/7/2020 20:27	Hello
+ELil9f3rKVY52FvjsqnJwe-o	7/7/2020 19:39	Did I answer your question correctly?
+ELil9f3rKVY52FvjsqnJwe-o	7/7/2020 19:39	"If your order was submitted using a credit card or PayPal, the tax amount will be passed to your US State Tax office. To obtain a tax refund, you will need to apply for the tax refund directly from your US State Tax Department.  
+  
+For orders submitted on purchase order or any other US Sales Tax questions, please contact our team at [taxexemptions@somecompany.com](mailto:taxexemptions@somecompany.com)."
